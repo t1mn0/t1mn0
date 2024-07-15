@@ -15,4 +15,4 @@ To contact me:
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/timno?theme=dark&font=source_code_pro&extension=null)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1mn0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t1mn0&theme=solarized_dark)
